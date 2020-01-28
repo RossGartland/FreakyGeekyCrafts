@@ -1,0 +1,913 @@
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\Project\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Ross Gartland\Desktop\FreakyGeekyCraftsOld\FreakyGeekyCrafts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+E:\Web Programming 2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts (2)\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCraftsProducts\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCraft09s\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts101219\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts1712\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0601\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Pictures\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Downloads\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\dic19159244\Downloads\FreakyGeekyCrafts0901\FreakyGeekyCrafts1912V2\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Alexander\Desktop\Year 2\MaybeGoodOne\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll.config
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\FreakyGeekyCrafts.pdb
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.exe.config
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csc.rsp
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.exe.config
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\csi.rsp
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.AppContext.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Console.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.exe.config
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\vbc.rsp
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csprojAssemblyReference.cache
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.csproj.CopyComplete
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.dll
+C:\Users\Ross Gartland\Downloads\FreakyGeekyCrafts\FreakyGeekyCrafts\obj\Debug\FreakyGeekyCrafts.pdb

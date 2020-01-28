@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="FreakyGeekyCrafts.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Freaky Geeky Crafts - Homemade Jewellery</title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/myStyles.css" rel="stylesheet" />
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+
+    
+    <meta name="description" content="FreakyGeekyCrafts homepage" />
+    <meta name="keywords" content="Jewellery,Earrings,Rings,Freaky, Geeky, Crafts, homemade, custom, UK, bracelets, jewels">
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="page">
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                </asp:ContentPlaceHolder>
+                <nav>
+                    <ul>
+                        
+                        <li>
+                            <a title="Home" href="../Pages/index.aspx">HOME</a>
+                        </li>
+
+
+                        <li>                          
+                            <a title="Products" href="../Pages/ProductView.aspx">PRODUCTS</a>
+                        </li>
+                       
+                        <li>
+                            <a title="SEARCH" href="../Pages/Search.aspx" id="addClass"><span class="glyphicon glyphicon-search"></span>SEARCH</a>
+                            
+                        </li>
+                        <li>
+                        <li>
+                            <a title="ACCOUNT" href="../Secure/Account.aspx">ACCOUNT</a>
+                        </li>
+                    </ul>
+                    <a class="logo" title="Freaky Geeky Crafts" href="../Pages/index.aspx">
+                        <span>Freaky Geeky Crafts</span></a>
+                    <ul id="nav-right">
+                        <li>
+                            <a title="Contact us" href="../Pages/ContactUs.aspx">CONTACT US</a>
+                        </li>
+                        <li>                                
+                            <a title="About us" href="../Pages/AboutUs.aspx" aria-haspopup="true">ABOUT US</a>
+                        </li>
+
+                        <li>
+                            <a title="My Bag" href="../Pages/Cart.aspx">MY BAG</a>
+                        </li>
+                        <li>
+                            <asp:HyperLink ID="Login" runat="server" NavigateUrl="~/Pages/Login.aspx">LOGIN</asp:HyperLink>                            
+                        </li>
+                        <li>
+                        </li>
+
+                        <li>
+                            <asp:Button ID="btnSignOut" runat="server" Text="Sign Out" Visible="False" OnClick="btnSignOut_Click" />
+                        </li>
+
+                        <li>
+                              <asp:Label ID="lblUsername" runat="server"></asp:Label>
+                        </li>
+
+                    </ul>
+                </nav>
+                <div id="qnimate" class="off">
+                    <div id="search" class="open">
+                        <button data-widget="remove" id="removeClass" class="close" type="button">×</button>
+
+                        <input type="text" placeholder="Type search keywords here" value="" name="term" id="term">
+                        <button class="btn btn-lg btn-site" type="submit"><span class="glyphicon glyphicon-search"></span>Search</button>
+                    </div>
+                </div>
+
+                <footer>
+                    &copy; Freaky Geeky Crafts
+                    <div class="content">
+                        <a title="Privacy Policy" href="../Pages/PrivacyPolicy.aspx">Privacy Policy</a>
+                        <a title="Terms of Service" href="../Pages/Terms.aspx">Terms of Service</a>
+                    </div>
+                </footer>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>
